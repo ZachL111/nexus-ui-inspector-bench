@@ -1,0 +1,7 @@
+name,demand,capacity,latency,risk,weight,score,decision,reason
+baseline,66,90,15,10,7,126,review,frontend apps baseline scenario exercises the review path for bounded failure handling
+pressure,77,76,30,23,8,11,review,frontend apps pressure scenario exercises the review path for bounded failure handling
+surge,108,97,22,14,11,177,review,frontend apps surge scenario exercises the review path for bounded failure handling
+degraded,72,58,32,25,7,-37,review,frontend apps degraded scenario exercises the review path for bounded failure handling
+recovery,91,107,20,11,9,172,review,frontend apps recovery scenario exercises the review path for bounded failure handling
+boundary,72,80,21,16,7,74,review,frontend apps boundary scenario exercises the review path for bounded failure handling
